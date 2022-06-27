@@ -1,0 +1,74 @@
+{
+  "name": "The Dracula Game #91",
+  "symbol": "DG",
+  "description": "Take part in the fight between thirsty blood drinkers and frightened hunters to earn $DNA.",
+  "seller_fee_basis_points": 900,
+  "image": "image.png",
+  "external_url": "https://www.dracula.game",
+  "edition": 91,
+  "collection": {
+    "name": "The dracula game",
+    "family": "Vampire"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3y18vEys9SHNPdt1ewtmsXxQyEpXUpn4G54PDb4nb7z9",
+        "share": 900
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "0"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Black Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Jackets",
+      "value": "Yellow Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Purple Shorts"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Cowboy Boots"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Black Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow"
+    }
+  ]
+}

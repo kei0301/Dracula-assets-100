@@ -1,0 +1,74 @@
+{
+  "name": "The Dracula Game #92",
+  "symbol": "DG",
+  "description": "Take part in the fight between thirsty blood drinkers and frightened hunters to earn $DNA.",
+  "seller_fee_basis_points": 900,
+  "image": "image.png",
+  "external_url": "https://www.dracula.game",
+  "edition": 92,
+  "collection": {
+    "name": "The dracula game",
+    "family": "Vampire"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3y18vEys9SHNPdt1ewtmsXxQyEpXUpn4G54PDb4nb7z9",
+        "share": 900
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "0"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Covid Mask"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Jackets",
+      "value": "Yellow Jacket"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Blue Pants"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Brown Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow"
+    }
+  ]
+}

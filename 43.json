@@ -1,0 +1,66 @@
+{
+  "name": "The Dracula Game #43",
+  "symbol": "DG",
+  "description": "Take part in the fight between thirsty blood drinkers and frightened hunters to earn $DNA.",
+  "seller_fee_basis_points": 800,
+  "image": "image.png",
+  "external_url": "https://www.dracula.game",
+  "edition": 43,
+  "collection": {
+    "name": "The dracula game",
+    "family": "Humans"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3y18vEys9SHNPdt1ewtmsXxQyEpXUpn4G54PDb4nb7z9",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Werewolf"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "White_Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Flip_Flops"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Piece_of_Wood"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ripped_Yellow"
+    }
+  ]
+}
